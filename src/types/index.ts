@@ -1,0 +1,1 @@
+export type bioTypes = 'TouchID' | 'FaceID' | 'Biometrics' | 'Not';
